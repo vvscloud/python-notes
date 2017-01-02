@@ -1,2 +1,4 @@
 # python-notes
-notes on python
+my learnings and best practises on python
+
+\# Ram Vallury
